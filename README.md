@@ -68,7 +68,7 @@ Open the panel from a phone or PC on the same network.
 
 ```python
 CFG = {
-    "camera_ip": "192.168.1.117",
+    "camera_ip": "192.168.1.11",
     "camera_user": "admin1",          # Camera Account (Tapo app)
     "camera_pass": "YOUR_CAMERA_PASS", # RTSP + ONVIF
     "onvif_pass": "YOUR_CAMERA_PASS",  # can match camera_pass
