@@ -53,7 +53,7 @@ Browsers only allow microphone access on **HTTPS** or **localhost**.
 3. Run:
 
 ```bash
-cd tapo_web
+cd tapo_c211_local_web_server
 python web_server.py
 ```
 
@@ -101,7 +101,7 @@ Create the Camera Account in the Tapo app: **Device → Advanced → Camera Acco
 ## Module layout
 
 ```
-tapo_web/
+tapo_c211_local_web_server/
 ├── web_server.py         # Flask app, UI, registers all blueprints
 ├── web_live_video.py     # RTSP → JPEG snapshot / MJPEG
 ├── web_receive_voice.py  # RTSP audio → browser (PCM s16le 8 kHz)
