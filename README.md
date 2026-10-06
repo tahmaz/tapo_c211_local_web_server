@@ -1,7 +1,7 @@
 # Tapo C211 Web Panel
 
 <p align="center">
-  <img src="img1.png" alt="Tapo C211" width="480"/>
+  <img src="img1.png" alt="Tapo C211" width="1024"/>
 </p>
 
 Local web control panel for **TP-Link Tapo C211** (and similar pan/tilt models) **without go2rtc**.
